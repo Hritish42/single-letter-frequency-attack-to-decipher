@@ -1,10 +1,13 @@
 ## Single-letter-frequency-attack-to-decipher
 
 
-Cryptography Challenge 1
+Cryptography Challenge 1.
+
 These are DA's From my collage of Cryptography! 
 
-Use single letter frequency attack to decipher the the following message.You know that it has been created with an additive (Shift) cipher. PXPXKXENVDRUXVTNLXHYMXGMAXYKXJNXGVRFXMAHWGXXWLEHGZXKVBIAXKMXQM . I've Used Python 3 For solving Challenge
+Use single letter frequency attack to decipher the the following message.You know that it has been created with an additive (Shift) cipher. PXPXKXENVDRUXVTNLXHYMXGMAXYKXJNXGVRFXMAHWGXXWLEHGZXKVBIAXKMXQM . 
+
+I've Used Python 3 For solving Challenge
 
 
 ## Usage
